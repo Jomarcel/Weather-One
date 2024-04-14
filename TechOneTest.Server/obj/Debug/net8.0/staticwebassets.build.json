@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "mSy5PJtMNy4REC5738zVXHw6bmE804uk6S94ItbwX/Y=",
+  "Source": "TechOneTest.Server",
+  "BasePath": "_content/TechOneTest.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Jomarcel\\Documents\\Side projects\\TechOneTest\\techonetest.client\\techonetest.client.esproj",
+      "Version": 2,
+      "Source": "techonetest.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@TechOneTest.Server_HostAddress = http://localhost:5037
+
+GET {{TechOneTest.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
